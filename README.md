@@ -12,5 +12,5 @@ A simple FastAPI backend for managing notes with full CRUD functionality.
 - Pydantic
 
 ## Upcoming Features / Work in Progress
-- AI-powered note summarization using OpenAI
+- AI-powered note summarization
 - AI-powered Q&A on notes
